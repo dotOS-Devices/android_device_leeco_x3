@@ -131,9 +131,8 @@
             32 - Camera
             64 - Volume rocker
          For example, a device with Home, Back and Menu keys would set this
-         config to 7.
+         config to 7. -->
     <integer name="config_deviceHardwareWakeKeys">64</integer>
-    Disabled Currently. -->
 
     <!-- Indicate whether closing the lid causes the device to go to sleep and opening
          it causes the device to wake up.
@@ -254,8 +253,7 @@
  <!-- Whether notify fingerprint client of successful cancelled authentication -->
  <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
  <!-- If enabled, capacitive keys will only light up when user presses the keys.
- Otherwise, the buttons will light up whenever the user interacts with the device.
+ Otherwise, the buttons will light up whenever the user interacts with the device.-->
  <bool name="config_buttonLightOnKeypressOnly">true</bool>
- Disabled Currently. -->
  
 </resources>

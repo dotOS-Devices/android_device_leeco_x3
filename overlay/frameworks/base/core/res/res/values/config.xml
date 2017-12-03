@@ -256,6 +256,6 @@
  Otherwise, the buttons will light up whenever the user interacts with the device.-->
  <bool name="config_buttonLightOnKeypressOnly">true</bool>
 <!-- Support in Surfaceflinger for blur layers. NOTE: This requires additional hardware-specific code.-->
-<bool name="config_ui_blur_enabled">true</bool>
+<bool name="config_uiBlurEnabled">true</bool>
  
 </resources>

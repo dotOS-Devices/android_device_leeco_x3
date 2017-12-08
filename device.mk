@@ -28,7 +28,6 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-	Camera2 \
 	libcamera_parameters_ext
 
 # Charger

@@ -81,6 +81,8 @@ ro.mtk_perf_response_time=1
 #
 # ADDITIONAL_BUILD_PROPERTIES
 #
+persist.camera.HAL3.enabled=1
+camera2.portability.force_api=2
 ro.mtk_trustonic_tee_support=1
 persist.sys.le_fast_chrg_enable=1
 ro.mediatek.chip_ver=S01

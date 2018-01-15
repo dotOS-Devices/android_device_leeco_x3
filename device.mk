@@ -28,6 +28,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+        Snap \
 	libcamera_parameters_ext
 
 # Charger
